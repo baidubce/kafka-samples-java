@@ -12,7 +12,7 @@
 
 ### 准备topic和SSL证书
 
-准备工作的细节请参考[BCE官网帮助文档](https://bce.baidu.com/doc/Kafka/QuickGuide.html)
+准备工作的细节请参考[BCE官网帮助文档](https://cloud.baidu.com/doc/Kafka/QuickGuide.html)
 
 1. 在BCE管理控制台中创建好topic。
 2. 在BCE管理控制台中下载您的jks证书文件和kafka客户端配置文件。
@@ -50,7 +50,7 @@ This sample illustrates how to access Baidu Kafka using open source kafka client
 
 ### Prepare your topic and SSL certificates
 
-Please follow [guide](https://bce.baidu.com/doc/Kafka/QuickGuide.html) on bce.baidu.com for detail.
+Please follow [guide](https://cloud.baidu.com/doc/Kafka/QuickGuide.html) on cloud.baidu.com for detail.
 
 1. Create your own topic in BCE console.
 2. Download your own certificate files and kafka client properties files in BCE console.
