@@ -7,7 +7,7 @@
 
 ### 运行环境
 
-- [Oracle JDK 7 or JDK 8](http://www.oracle.com/technetwork/java/)
+- [Oracle JDK 7 or JDK 8](http://www.oracle.com/technetwork/java/)，最低为Java 1.7.0-b147。
 - 最新的稳定版[Apache Maven](http://maven.apache.org/)
 
 ### 准备topic和SSL证书
@@ -45,7 +45,7 @@ This sample illustrates how to access Baidu Kafka using open source kafka client
 
 ### Kafka-samples-java requires
 
-- Latest stable [Oracle JDK 7 or JDK 8](http://www.oracle.com/technetwork/java/)
+- Latest stable [Oracle JDK 7 or JDK 8](http://www.oracle.com/technetwork/java/).  Java 1.7.0-b147 at least.
 - Latest stable [Apache Maven](http://maven.apache.org/)
 
 ### Prepare your topic and SSL certificates
